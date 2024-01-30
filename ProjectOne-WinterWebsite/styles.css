@@ -1,0 +1,49 @@
+/*
+    layoutss.css Alinase Phiri
+*/
+nav {
+    background-color: rgb(58, 128, 152);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-size: 20px;
+}
+
+header {
+    background-color: rgb(185, 213, 230);
+    color:rgb(15, 72, 100);
+    text-align: center;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+p {
+    color: white;
+}
+
+
+body {
+    background-color: lightblue;
+}
+
+table { 
+    background-color: rgb(185, 213, 230);
+    border: 2px solid black;
+
+}
+caption{
+    color: white;
+}
+
+#container {
+    display: flex;
+ }
+ 
+ #container > div {
+    text-align: center;
+    background: rgb(15, 72, 100);
+    padding: 20px;
+ }
+ 
+ 
